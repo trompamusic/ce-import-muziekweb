@@ -1,3 +1,6 @@
+This repository has been merged into https://github.com/trompamusic/ce-data-import
+
+
 # Muziekweb data import for Trompa Contributor Environment
 
 Muziekweb Rotterdam, the Netherlands
